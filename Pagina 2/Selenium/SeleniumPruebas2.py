@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 
 
-desktop_path = r"C:\Users\Hary Tatiana\Desktop"
+desktop_path = r"C:\Users\vgaby\Desktop"
 
 class TestCalculadora(unittest.TestCase):
 
